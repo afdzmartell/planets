@@ -1,2 +1,3 @@
 Mars is a cold and red planet
-hello
+the atmpsphere
+this also have high radiation
